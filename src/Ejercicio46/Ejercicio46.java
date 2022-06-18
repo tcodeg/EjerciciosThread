@@ -21,6 +21,8 @@ System.out.println("***************EJEMPLO CONSUMER*****************");
 		};
 		
 		num.forEach(lista);
+		
+		
 System.out.println("************** EJEMPLO BICONSUMER *************");
 		Map<Integer, String> map = new LinkedHashMap<>();
 		map.put(1, "primero");
